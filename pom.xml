@@ -4,8 +4,8 @@
     <groupId>com.boxfuse.samples</groupId>
     <artifactId>hello</artifactId>
     <packaging>war</packaging>
-    <name>hello-1.0</name>
     <version>1.0</version>
+    <name>hello</name>
     <build>
         <finalName>hello</finalName>
     </build>
