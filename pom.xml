@@ -6,9 +6,6 @@
     <packaging>war</packaging>
     <version>1.0</version>
     <name>hello</name>
-    <build>
-        <finalName>hello</finalName>
-    </build>
     <url>https://github.com/stalk3rr/boxfuse-sample-java-war-hello.git</url>
     <dependencies>
         <dependency>
@@ -19,6 +16,7 @@
         </dependency>
     </dependencies>
     <build>
+    <finalName>hello</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
