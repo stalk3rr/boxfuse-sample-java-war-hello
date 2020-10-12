@@ -6,6 +6,7 @@
 <h1>Congratulations!</h1>
 <img src="boxfuse.png">
 
+<h2>hello!</h2>
 <h2>stalk3rr! You have successfully launched Java in Docker!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
